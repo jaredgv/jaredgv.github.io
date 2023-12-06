@@ -2,6 +2,10 @@
     margin: 0;
 }
 
+body {
+  background-image: url('back.jpg');
+}
+
 .row {
   margin: 0 auto;
 }
@@ -10,7 +14,6 @@
 }
 
 .contenedor{
-    background: cadetblue;
     width: 100vw;
     height: 100vh;
     text-align: center;
