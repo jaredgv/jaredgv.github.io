@@ -1,7 +1,6 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('Sabia que ibas a decir que si uwu');
     location.href = "https://jaredgv.github.io/itinerario.html"
 });
 
