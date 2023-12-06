@@ -21,7 +21,7 @@ button{
 
 #yesBtn{
     transform: translate(-100%,0);
-    color: #FFFFFF;
+    color: green;
     transition: all 0.5s;
     position: relative;
 }
