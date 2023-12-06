@@ -2,6 +2,13 @@
     margin: 0;
 }
 
+.row {
+  margin: 0 auto;
+}
+.block {
+  float: left;
+}
+
 .contenedor{
     background: cadetblue;
     width: 100vw;
