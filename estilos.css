@@ -3,7 +3,9 @@
 }
 
 body {
-  background-image: url('back.jpg');
+  background-image:
+    linear-gradient(to bottom, rgba(180,180,180), rgba(240,240,240)),
+    url('back.jpeg');
 }
 
 .row {
