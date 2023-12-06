@@ -67,6 +67,4 @@ button{
     position: absolute;
     color: white;
     background-color: #FF6766;
-    transition: all 0.5s;
-    position: relative;
 }
