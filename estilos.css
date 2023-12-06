@@ -26,7 +26,6 @@ button{
     background-color: #04AA6D;
     transition: all 0.5s;
     position: relative;
-    border-radius: 10rem;
 }
 
 .yesBtn::before {
@@ -66,4 +65,8 @@ button{
 
 #noBtn{
     position: absolute;
+    color: white;
+    background-color: #FF6766;
+    transition: all 0.5s;
+    position: relative;
 }
